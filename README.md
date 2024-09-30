@@ -13,6 +13,13 @@
   <img src="https://img.shields.io/badge/Tools-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical" alt="GitHub Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical" alt="Top Languages">
+</p>
 <!--
 **davidacunalopez/davidacunalopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
