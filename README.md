@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm David Acuna Lopez 👋</h2>
+<h1 align="center">Hi, I'm David Acuna Lopez 👋</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
