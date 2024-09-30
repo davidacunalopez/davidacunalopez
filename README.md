@@ -1,5 +1,11 @@
-## Hi, I'm David Acuna Lopez 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=8182F7&background=9620FF00&center=true&width=435&lines=Welcome+to+my+GitHub;Software+Engineer;Exploring+the+Art+of+Code)](https://git.io/typing-svg)
+<h2 align="center">Hi, I'm David Acuna Lopez 👋</h2>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=8182F7&background=9620FF00&center=true&width=435&lines=Welcome+to+my+GitHub;Software+Engineer;Exploring+the+Art+of+Code" alt="Typing SVG">
+  </a>
+</p>
+
 <!--
 **davidacunalopez/davidacunalopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
