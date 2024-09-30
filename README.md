@@ -13,13 +13,12 @@
   <img src="https://img.shields.io/badge/Tools-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
+## Connect with me 🌐
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical" alt="GitHub Stats">
+  <a href="https://www.linkedin.com/in/tu-usuario/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:tu-email@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical" alt="Top Languages">
-</p>
 <!--
 **davidacunalopez/davidacunalopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
