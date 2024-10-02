@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<h1 align="center">Hi, I'm David Acuna Lopez 👋</h1>
+<h1 align="center">Hi, I'm David Acuna Lopez</h1> <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img>
 
 <br>
 
