@@ -63,9 +63,28 @@
 <!--Connect with me-->
 ## Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px">
 <p align="center">
-  <a href="https://www.linkedin.com/in/david-acu%C3%B1a-l%C3%B3pez-51b68427b/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:rodolfoide69@gmail.com"><img src="https://img.shields.io/badge/Email-rodolfoide69%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://x.com/davidacunalopez"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge" alt="X"></a>
+
+  <!--Linkedin-->
+  <a href="https://www.linkedin.com/in/david-acu%C3%B1a-l%C3%B3pez-51b68427b/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+
+  <!--Gmail-->
+  <a href="mailto:rodolfoide69@gmail.com">
+    <img src="https://img.shields.io/badge/Email-rodolfoide69%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+
+  <!--Twitter or X-->
+  <a href="https://x.com/davidacunalopez">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+  </a>
+
+  <!--Instagram-->
+  <a href="https://www.instagram.com/davidlopezoficial_1">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+
+  
 </p>
 
 <!--
