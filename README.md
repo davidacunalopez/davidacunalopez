@@ -16,9 +16,7 @@
 
 <!--About me-->
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35px></picture> About me
-I am currently a student of computer engineering at the Costa Rican Institute of Technology.
-
-I am driven by a passion for continuous learning and personal growth. I love challenges that push me to apply and hone my interpersonal skills. I am open-minded to new opportunities to expand my knowledge, particularly in new and emerging technologies.
+I'm a Computer Engineering student at the Costa Rican Institute of Technology, passionate about continuous learning and tackling challenges that strengthen both my technical and interpersonal skills. Currently exploring the world of Web3, blockchain, and artificial intelligence, always eager to build, collaborate, and grow through innovative technologies.
 
 <br><br>
 
