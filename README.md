@@ -18,6 +18,10 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35px></picture> About me
 Software Engineering student at the Costa Rica Institute of Technology, with solid full-stack development experience using React, Node.js, and SQL databases. Passionate about building efficient and scalable solutions with real-world impact. Quick learner with strong problem-solving skills and a collaborative mindset. Open to exploring emerging technologies, with a special interest in AI, crypto, and blockchain.
 
+
+To Stellar,
+If you're seeing this, let me tell you that I’m so excited to be part of the biggest event in Rio de Janeiro!
+As someone new to Web3, it would be a real pleasure to participate, learn more, and become part of your ecosystem.
 <br><br>
 
 <!--Skills-->
