@@ -6,6 +6,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=8182F7&center=true&vCenter=true&width=560&lines=Software+Engineering+Student+%7C+TEC;Odoo+%2B+Python+%2B+React+%2B+Node.js+%2B+PostgreSQL;Web3%3A+Soroban+%2B+Solidity" alt="Typing animation"/>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2600&pause=800&color=F78FB3&center=true&vCenter=true&width=520&lines=ERP+%E2%80%A2+APIs+%E2%80%A2+Smart+contracts+%E2%80%A2+Clean+architecture;Always+shipping+something+new+%F0%9F%9A%80" alt="Accent typing"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="48" alt="Wave"/>
+</p>
+
 <br>
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="32" alt=""/></picture> About me
@@ -13,6 +21,16 @@
 I am a **Software Engineering** student at the **Costa Rica Institute of Technology (TEC)**. I work on the **ERP** side with **Odoo** and **Python**, and on the **full stack** with **JavaScript**, **Java**, **HTML5**, **React**, **Node.js**, and **PostgreSQL**, using **Docker** when I need reproducible environments or deployments.
 
 In **Web3** I focus on **Soroban** (smart contracts on Stellar) and **Solidity**. I care about **efficient, real-world solutions**; I learn fast and enjoy solving complex problems with a team.
+
+<br>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Developer quote"/>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="" width="88%"/>
+</p>
 
 <br>
 
@@ -38,12 +56,24 @@ In **Web3** I focus on **Soroban** (smart contracts on Stellar) and **Solidity**
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>
 </p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,java,html,react,nodejs,postgres,docker,solidity&perline=10&theme=dark" alt="Skill icons"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=14,18,22&height=110&section=header&fontSize=0&animation=twinkling" alt="" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,16,12&height=56&section=header&text=Live%20GitHub%20metrics&fontSize=20&fontColor=fff&fontAlign=50&fontAlignY=33&animation=scaleIn&desc=Streak%20%E2%80%A2%20Stats%20%E2%80%A2%20Activity&descAlign=50&descAlignY=48&descSize=11" alt="Section banner" width="92%"/>
+</p>
+
 <br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32" alt=""/> GitHub stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=davidacunalopez&theme=radical&no-frame=true&no-bg=false&row=1&column=7&margin-w=10&margin-h=10" alt="GitHub trophies"/>
+  <img src="https://ghchart.rshah.org/8182F7/davidacunalopez" alt="Contribution calendar (last year)" width="90%"/>
 </p>
 
 <p align="center">
@@ -53,6 +83,11 @@ In **Web3** I focus on **Soroban** (smart contracts on Stellar) and **Solidity**
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=davidacunalopez&theme=redical&hide_border=false&area=true&custom_title=Contribution%20activity" alt="Contribution activity graph"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/davidacunalopez?tab=followers"><img src="https://img.shields.io/github/followers/davidacunalopez?label=Followers&logo=github&style=for-the-badge&color=8182F7&labelColor=1a1b27" alt="GitHub followers"/></a>
+  <a href="https://github.com/davidacunalopez?tab=repositories"><img src="https://img.shields.io/badge/Repos-public-blue?style=for-the-badge&logo=github&labelColor=1a1b27&color=6366f1" alt="Repositories"/></a>
 </p>
 
 <br>
@@ -73,5 +108,5 @@ In **Web3** I focus on **Soroban** (smart contracts on Stellar) and **Solidity**
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,14,18,24&height=48&section=footer&animation=twinkling" alt="" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,14,18,24&height=56&section=footer&animation=twinkling" alt="" width="100%"/>
 </p>
