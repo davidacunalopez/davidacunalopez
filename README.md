@@ -37,7 +37,15 @@ In **Web3** I focus on **Soroban** (smart contracts on Stellar) and **Solidity**
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="26" alt=""/> Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=odoo,py,js,java,html,react,nodejs,postgres,docker,git,github,linux,n8n,supabase,solidity,stellar&perline=8&theme=dark" alt="Technologies I use" width="960"/>
+  <img src="https://cdn.simpleicons.org/odoo/714B67" height="48" width="48" alt="Odoo"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="48" width="48" alt="n8n"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/stellar/7D00FF" height="48" width="48" alt="Stellar (Soroban)"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,java,html,react,nodejs,postgres,docker,git,github,linux,supabase,solidity,vscode&perline=7&theme=dark" alt="Technologies I use" width="900"/>
 </p>
 
 <p align="center">
