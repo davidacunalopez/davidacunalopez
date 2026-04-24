@@ -47,11 +47,6 @@ In **Web3** I focus on **Soroban** (smart contracts on Stellar) and **Solidity**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,js,java,html,react,nodejs,postgres,docker,git,github,linux,supabase,solidity,vscode&perline=7&theme=dark" alt="Technologies I use" width="900"/>
 </p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,16,12&height=48&section=header&text=Live%20GitHub%20metrics&fontSize=18&fontColor=fff&fontAlign=50&fontAlignY=30&animation=fadeIn&desc=Streak%20%E2%80%A2%20Stats%20%E2%80%A2%20Activity&descAlign=50&descAlignY=44&descSize=11" alt="Section banner" width="88%"/>
-</p>
-
 <br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32" alt=""/> GitHub stats
