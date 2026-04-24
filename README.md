@@ -37,44 +37,26 @@ In **Web3** I focus on **Soroban** (smart contracts on Stellar) and **Solidity**
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="26" alt=""/> Tech stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <br>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-</p>
-
-<p align="center"><strong>Web3</strong></p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Soroban-3E1BDB?style=for-the-badge&logo=stellar&logoColor=white" alt="Soroban (Stellar)"/>
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>
+  <img src="https://skillicons.dev/icons?i=odoo,py,js,java,html,react,nodejs,postgres,docker,solidity,stellar&perline=6&theme=dark" alt="Technologies I use" width="820"/>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,java,html,react,nodejs,postgres,docker,solidity&perline=10&theme=dark" alt="Skill icons"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=14,18,22&height=110&section=header&fontSize=0&animation=twinkling" alt="" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,16,12&height=56&section=header&text=Live%20GitHub%20metrics&fontSize=20&fontColor=fff&fontAlign=50&fontAlignY=33&animation=scaleIn&desc=Streak%20%E2%80%A2%20Stats%20%E2%80%A2%20Activity&descAlign=50&descAlignY=48&descSize=11" alt="Section banner" width="92%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,16,12&height=48&section=header&text=Live%20GitHub%20metrics&fontSize=18&fontColor=fff&fontAlign=50&fontAlignY=30&animation=fadeIn&desc=Streak%20%E2%80%A2%20Stats%20%E2%80%A2%20Activity&descAlign=50&descAlignY=44&descSize=11" alt="Section banner" width="88%"/>
 </p>
 
 <br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32" alt=""/> GitHub stats
 
+<h3 align="center">Contribution heatmap · last 12 months</h3>
+
 <p align="center">
-  <img src="https://ghchart.rshah.org/8182F7/davidacunalopez" alt="Contribution calendar (last year)" width="90%"/>
+  <a href="https://github.com/davidacunalopez" title="Open my GitHub profile">
+    <img src="https://ghchart.rshah.org/c084fc/davidacunalopez" alt="GitHub contribution heatmap (last 12 months)" width="94%" style="border-radius: 14px; border: 1px solid rgba(192, 132, 252, 0.35); box-shadow: 0 12px 40px rgba(0, 0, 0, 0.45);"/>
+  </a>
 </p>
+
+<p align="center"><sub>Darker violet = more commits · click the chart to open my GitHub profile</sub></p>
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=davidacunalopez&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&rank_icon=github&cache_seconds=7200" alt="GitHub stats"/>
