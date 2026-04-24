@@ -18,7 +18,7 @@
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="32" alt=""/></picture> About me
 
-I am a **Software Engineering** student at the **Costa Rica Institute of Technology (TEC)**. I work on the **ERP** side with **Odoo** and **Python**, and on the **full stack** with **JavaScript**, **Java**, **HTML5**, **React**, **Node.js**, and **PostgreSQL**, using **Docker** when I need reproducible environments or deployments.
+I am a **Software Engineering** student at the **Costa Rica Institute of Technology (TEC)**. I work on the **ERP** side with **Odoo** and **Python**, and on the **full stack** with **JavaScript**, **Java**, **HTML5**, **React**, **Node.js**, and **PostgreSQL**, using **Docker** when I need reproducible environments or deployments. Day to day I ship with **Git** on **Linux**, automate flows with **n8n**, and use **Supabase** when a project needs that Postgres + API layer.
 
 In **Web3** I focus on **Soroban** (smart contracts on Stellar) and **Solidity**. I care about **efficient, real-world solutions**; I learn fast and enjoy solving complex problems with a team.
 
@@ -37,7 +37,7 @@ In **Web3** I focus on **Soroban** (smart contracts on Stellar) and **Solidity**
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="26" alt=""/> Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=odoo,py,js,java,html,react,nodejs,postgres,docker,solidity,stellar&perline=6&theme=dark" alt="Technologies I use" width="820"/>
+  <img src="https://skillicons.dev/icons?i=odoo,py,js,java,html,react,nodejs,postgres,docker,git,github,linux,n8n,supabase,solidity,stellar&perline=8&theme=dark" alt="Technologies I use" width="960"/>
 </p>
 
 <p align="center">
