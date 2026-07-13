@@ -18,7 +18,7 @@
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="32" alt=""/></picture> About me
 
-I am a **Software Engineering** student at the **Costa Rica Institute of Technology (TEC)**. I work on the **ERP** side with **Odoo** and **Python**, and on the **full stack** with **JavaScript**, **Java**, **HTML5**, **React**, **Node.js**, and **PostgreSQL**, using **Docker** when I need reproducible environments or deployments. Day to day I ship with **Git** on **Linux**, automate flows with **n8n**, and use **Supabase** when a project needs that Postgres + API layer.
+I am a **Software Engineering** student at the **Costa Rica Institute of Technology (TEC)**. I work on the **ERP** side with **Odoo** and **Python**, and on the **full stack** with **JavaScript/TypeScript**, **HTML5**, **React**, **Angular**, **Node.js**, and **PostgreSQL**, using **Docker** when I need reproducible environments or deployments. I also build with **Java** (Spring) and **C#** (ASP.NET). Day to day I ship with **Git** on **Linux**, build **AI agents** with **OpenAI** and **n8n**, and use **Supabase** when a project needs that Postgres + API layer.
 
 In **Web3** I focus on **Soroban** (smart contracts on Stellar) and **Solidity**. I care about **efficient, real-world solutions**; I learn fast and enjoy solving complex problems with a team.
 
@@ -41,11 +41,13 @@ In **Web3** I focus on **Soroban** (smart contracts on Stellar) and **Solidity**
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="48" width="48" alt="n8n"/>
   &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/openai" height="48" width="48" alt="OpenAI"/>
+  &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/stellar/7D00FF" height="48" width="48" alt="Stellar (Soroban)"/>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,java,html,react,nodejs,postgres,docker,git,github,linux,supabase,solidity,vscode&perline=7&theme=dark" alt="Technologies I use" width="900"/>
+  <img src="https://skillicons.dev/icons?i=py,js,ts,java,cs,html,react,angular,nodejs,spring,dotnet,postgres,supabase,docker,git,github,linux,solidity,vscode&perline=7&theme=dark" alt="Technologies I use" width="900"/>
 </p>
 <br>
 
@@ -81,7 +83,7 @@ In **Web3** I focus on **Soroban** (smart contracts on Stellar) and **Solidity**
 
 <p align="center">
   <a href="https://www.linkedin.com/in/david-acu%C3%B1a-l%C3%B3pez-51b68427b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:rodolfoide69@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:rodolfo.david.acuna.lopez@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://x.com/davidacunalopez"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
   <a href="https://www.instagram.com/davidlopezoficial_1"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
